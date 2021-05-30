@@ -17,6 +17,8 @@ So I will resume here what I learned building this project :
 **Summary**
 
 - grid-templates, auto-fill, auto-fit, use Flex inside Grid, make responsive with Grid.
+- 
 **Project Nr.3 From Udemy Course -Grid-**
+
 This project was built by following the [Udemy Course](https://www.udemy.com/course/advanced-css-and-sass/).
 
